@@ -1,7 +1,7 @@
 /*Driver App Configuration*/
 
 var krms_driver_config ={			
-	'ApiUrl':"http://ojeelojee.com/driver/api",		
+	'ApiUrl':"https://ojeelojee.com/driver/api",		
 	'DialogDefaultTitle':"Delivery Boy App",
 	'mapboxToken' : '',
 	'APIHasKey':"oMSjuDBkAShdssfksnd",
